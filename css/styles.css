@@ -2154,3 +2154,12 @@ color: black;
   font-weight: 400px;
   color: #262626;
 }
+
+.about-text {
+  color: #262626;
+  font-size: 14pt;
+  line-height: 1.5em;
+  font-family: "Google Sans", sans-serif;
+  text-align: center;
+  font-weight: 300;
+}
